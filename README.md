@@ -2,7 +2,7 @@
 
 ## React, rxjs
 
-### Scripts to run app
+### Scripts to run app from scratch
 - npm i
 - npm run start
 
